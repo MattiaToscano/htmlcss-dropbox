@@ -81,7 +81,7 @@ ul li{
 .colonna25{
     width: 30%;
     height: 1000px;
-    background-color: aqua;
+    
     border: 1px solid black;
 }
 
@@ -125,8 +125,15 @@ ul li{
 
 .colonna50{
     width: 50%;
-    background-color: aquamarine;
     object-fit: contain;
+    padding: 15px;
+}
+
+.partner{
+    border: 1px solid black;
+    color: #000;
+    padding: 5px 15px;
+    text-decoration: none;
 }
 
 
