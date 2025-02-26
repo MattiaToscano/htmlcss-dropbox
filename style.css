@@ -121,8 +121,13 @@ ul li{
     width: 20%;
 }
 
+/* Main, Quarta parte di esercizio */
 
-
+.colonna50{
+    width: 50%;
+    background-color: aquamarine;
+    object-fit: contain;
+}
 
 
 /* Utility */
