@@ -153,10 +153,13 @@ ul li{
     padding-top: 60px;
     position: relative;
     background-color: black;
-    height: 300px;
+    height: 500px;
     color: #fff
 }
 
+footer ul li{
+    width: 100%;
+}
 
 
 /* Utility */
@@ -230,6 +233,7 @@ ul li{
 
 hr{
     width: 20%;
+    border-color: grey
 }
 
 .text-left{
