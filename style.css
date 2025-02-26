@@ -80,7 +80,6 @@ ul li{
 
 .colonna25{
     width: 30%;
-    height: 1000px;
     
     border: 1px solid black;
 }
@@ -136,6 +135,15 @@ ul li{
     text-decoration: none;
 }
 
+/* Main, Quinta parte di esercizio */
+
+
+.colonna-griglia{
+    width: 30%;
+    background-color: aqua;
+    height: 500px;
+    border: 1px solid black;
+}
 
 /* Utility */
 .mtop-10{
@@ -179,6 +187,10 @@ ul li{
     padding: 10px;
 }
 
+.m{
+    margin: 10px;
+}
+
 .fontgrande{
     font-size: 50px;
 }
@@ -211,7 +223,7 @@ hr{
 }
 
 .text-center{
-    text-align: cen;
+    text-align: center;
 }
 
 .text-right{
