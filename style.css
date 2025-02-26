@@ -6,6 +6,28 @@
 
 /* Header,prima parte di esercizio */
 header{
-    max-width: 1200px;
+    max-width: 2000px;
     background-color: aquamarine;
 }
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+.inizia{
+    background-color:#0464fc ;
+    border: 1px solid #0464fc;
+    color: #fff;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+
+/* Main, Seconda parte di esercizio */
