@@ -42,7 +42,6 @@ ul li{
     background-color: rgb(140, 221, 194);
     padding-top: 60px;
     position: relative;
-    
 }
 
 .intestazione-principale{
@@ -145,6 +144,20 @@ ul li{
 .colonna-griglia{
     width: 30%;
 }
+/* Footer, Sesta parte esercizio */
+
+
+.footer-container {
+    max-width: 2500px;
+    background-color: rgb(140, 221, 194);
+    padding-top: 60px;
+    position: relative;
+    background-color: black;
+    height: 300px;
+    color: #fff
+}
+
+
 
 /* Utility */
 .mtop-10{
