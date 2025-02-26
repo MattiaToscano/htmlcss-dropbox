@@ -96,6 +96,35 @@ ul li{
     
 }
 
+/* Main, terza parte di esercizio */
+
+.container-enterprise{
+    display: flex
+}
+
+
+.colonna100{
+    width: 100%;
+    text-align: center;
+   
+    display: flex
+
+}
+
+.colonna80{
+    width: 80%;
+    display: flex;
+}
+
+.colonna20{
+    width: 20%;
+    display: flex;
+    height: 100px;
+   
+}
+
+
+
 
 
 /* Utility */
@@ -161,4 +190,16 @@ ul li{
 
 hr{
     width: 20%;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: cen;
+}
+
+.text-right{
+    text-align: right;
 }
