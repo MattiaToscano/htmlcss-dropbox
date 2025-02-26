@@ -32,40 +32,37 @@ ul li{
 /* Main, Seconda parte di esercizio */
 
 .main-container {
-    max-width: 2000px;
+    max-width: 2500px;
     background-color: aquamarine;
     height: 500px;
     padding-top: 60px;
-   
 }
 
 h1{
     font-size: 400%;
     width:50%;
-    margin-left:25%
-    
-;
-    
+    margin-left:25%;
 }
 
 .container-grande{
     width: 50%;
     display:flex;
     margin: 0 auto;
-    
 }
 
 .colonna70{
-    width: 70%;
-    background-color: black;
-    height: 100px;
-    
-    
+    width: 65%;
+    height: 200x;
+    padding-top: 40px;
 }
 
 .colonna30{
-    width: 30%;
-    background-color: blue;
-    height: 100px;
-    
+    width: 35%;
+    background-color: rgb(109, 109, 168);
+    height: 300px;
+    padding-top: 40px;
+    line-height: 20px;
+}
+img{
+    width: 100%;
 }
