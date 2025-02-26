@@ -33,36 +33,64 @@ ul li{
 
 .main-container {
     max-width: 2500px;
-    background-color: aquamarine;
-    height: 500px;
+    background-color: rgb(140, 221, 194);
     padding-top: 60px;
+    position: relative;
+    
 }
 
-h1{
+.intestazione-principale{
     font-size: 400%;
     width:50%;
     margin-left:25%;
 }
 
 .container-grande{
-    width: 50%;
+    width: 70%;
     display:flex;
     margin: 0 auto;
 }
 
 .colonna70{
-    width: 65%;
-    height: 200x;
+    width: 70%;
     padding-top: 40px;
+    height: 350px;
 }
 
 .colonna30{
-    width: 35%;
-    background-color: rgb(109, 109, 168);
-    height: 300px;
+    width: 30%;
     padding-top: 40px;
     line-height: 20px;
 }
-img{
-    width: 100%;
+
+.secondcontainer{
+    width: 70%;
+    display:flex;
+    margin: 200px auto;   
+}
+
+.container-piccolo{
+    width: 50%;
+    display:flex;
+    margin: 0 auto;
+}
+/* Utility */
+
+.mtop-50{
+    margin-top: 30px;
+}
+
+.mbot-30{
+    margin-bottom: 30px;
+}
+
+.fontgrande{
+    font-size: 50px;
+}
+ img{
+    width: 100%;    
+}
+
+.inline-block{
+    display: inline-block;
 }
