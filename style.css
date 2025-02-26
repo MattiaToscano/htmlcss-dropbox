@@ -147,15 +147,20 @@ ul li{
 /* Footer, Sesta parte esercizio */
 
 
+footer{
+    max-width: 2000px;
+}
+
+
 .footer-container {
     max-width: 2500px;
-    background-color: rgb(140, 221, 194);
     padding-top: 60px;
     position: relative;
     background-color: black;
-    height: 500px;
-    color: #fff
+    
+    color: #fff;
 }
+
 
 footer ul li{
     width: 100%;
