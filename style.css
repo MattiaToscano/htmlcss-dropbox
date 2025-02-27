@@ -12,6 +12,10 @@ body{
 /* Header,prima parte di esercizio */
 header{
     max-width: 2000px;
+    position: fixed;
+    z-index: 1;
+    background-color: #fff;
+    width: 100%;
 }
 
 .header-container{
@@ -40,7 +44,7 @@ ul li{
 .main-container {
     max-width: 2500px;
     background-color: rgb(140, 221, 194);
-    padding-top: 60px;
+    padding-top: 40px;
     position: relative;
 }
 
@@ -59,7 +63,8 @@ ul li{
 .colonna70{
     width: 70%;
     padding-top: 40px;
-    height: 350px;
+    height: 400px;
+    
 }
 
 .colonna30{
@@ -84,12 +89,12 @@ ul li{
 
 .colonna25{
     width: 30%;
-    border: 1px solid black;
+    border: 1px solid rgb(11, 11, 11);
 }
 
 .testacolonna{
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid rgb(22, 22, 22);
     padding: 5px;
 }
 
@@ -103,14 +108,11 @@ ul li{
 .container-enterprise{
     display: flex;
     width: 100%;
-
 }
 
 
 .colonna100{
     width: 100%;
-    text-align: center;
-    display: flex;
 }
 
 .colonna80{
@@ -157,7 +159,6 @@ footer{
     padding-top: 60px;
     position: relative;
     background-color: black;
-    
     color: #fff;
 }
 
@@ -259,4 +260,8 @@ hr{
 
 .larghezza{
     width: 100%;
+}
+
+.centro{
+align-items: center;
 }
