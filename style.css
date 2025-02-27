@@ -16,6 +16,7 @@ header{
     z-index: 1;
     background-color: #fff;
     width: 100%;
+    
 }
 
 .header-container{
@@ -44,7 +45,7 @@ ul li{
 .main-container {
     max-width: 2500px;
     background-color: rgb(140, 221, 194);
-    padding-top: 40px;
+    padding-top: 60px;
     position: relative;
 }
 
