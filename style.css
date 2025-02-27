@@ -16,6 +16,7 @@ header{
     z-index: 1;
     background-color: #fff;
     width: 100%;
+    box-shadow: 0px 8px 16px 0px #000000;
     
 }
 
@@ -44,7 +45,7 @@ ul li{
 
 .main-container {
     max-width: 2500px;
-    background-color: rgb(140, 221, 194);
+    background-color: #3984FF;
     padding-top: 60px;
 }
 
@@ -285,8 +286,8 @@ align-items: center;
   display: none;
   position: absolute;
   background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  min-width: 130px;
+  box-shadow: 0px 8px 16px 0px black;
   padding: 12px 16px;
   z-index: 1;
 }
