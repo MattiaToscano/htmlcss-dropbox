@@ -104,6 +104,12 @@ ul li{
     
 }
 
+.bordo{
+    border: 7px solid rgb(28, 126, 223);
+    border-radius: 50%;
+    padding-left: 1px;
+}
+
 /* Main, terza parte di esercizio */
 
 .container-enterprise{
@@ -296,3 +302,4 @@ align-items: center;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
